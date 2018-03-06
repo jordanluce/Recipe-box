@@ -34,6 +34,7 @@ gem 'haml', '~> 5.0.0.beta.2'
 # gem 'capistrano-rails', group: :development
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
